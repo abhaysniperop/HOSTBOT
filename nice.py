@@ -38,21 +38,17 @@ import shutil
 from telebot import types
 import time
 from datetime import datetime, timedelta
-# Removed unused telegram.* imports as we are using telebot consistently
-from telegram import Update
-from telegram.ext import Updater, CommandHandler, CallbackContext
 import psutil
 import sqlite3
-import json # Kept in case needed elsewhere, but not used in provided logic
-import logging # Kept in case needed elsewhere
-import signal # Kept in case needed elsewhere
+import json
+import logging
+import signal
 import threading
-import re # Added for regex matching in auto-install
-import sys # Added for sys.executable
+import re
+import sys
 import atexit
-import requests # For polling exceptions
+import requests
 
-# --- Flask Keep Alive ---
 from flask import Flask
 from threading import Thread
 
