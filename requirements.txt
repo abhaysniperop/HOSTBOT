@@ -1,21 +1,6 @@
-# Core Requirements
-pyTelegramBotAPI==4.12.0
-python-telegram-bot==20.3
-Flask==2.0.3
-Jinja2==3.0.3
-MarkupSafe==2.0.1
+pyTelegramBotAPI==4.16.1
 requests==2.31.0
-psutil==5.9.5
-
-# Database
-sqlite3== # (Usually comes with Python)
-
-# File Handling
-python-dotenv==1.0.0
-zipfile36==0.1.3
-
-# Additional Utilities
-beautifulsoup4==4.12.2
-Pillow==10.0.1
-numpy==1.24.3
-pandas==2.0.3
+psutil==5.9.8
+Flask==3.0.2
+python-dotenv==1.0.1
+gunicorn==21.2.0
