@@ -84,8 +84,8 @@ def get_uptime():
 
 # --- Configuration ---
 TOKEN = '8394277892:AAGakjSpKiFm7JsbeZ_DjEShTNXBiy897vE'
-OWNER_ID = 7666198278
-ADMIN_ID = 7666198278
+OWNER_ID = 8287427230
+ADMIN_ID = 8287427230
 YOUR_USERNAME = '@Nexuussssex'
 UPDATE_CHANNEL = 'https://t.me/Nexussssex'
 
