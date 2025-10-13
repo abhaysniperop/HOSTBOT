@@ -83,9 +83,9 @@ def get_uptime():
 # --- End Uptime Tracking ---
 
 # --- Configuration ---
-TOKEN = '8430624078:AAHgqxL7XA_RNriuzCy2Rh4oVGW7-QyvdUQ'
-OWNER_ID = 7421957337
-ADMIN_ID = 7421957337
+TOKEN = '8455602350:AAGFdzMyeIDABVVvV6ps3Y1rDhClhMGvSdI'
+OWNER_ID = 8299345171
+ADMIN_ID = 8299345171
 YOUR_USERNAME = '@Nexuussssex'
 UPDATE_CHANNEL = 'https://t.me/Nexussssex'
 
