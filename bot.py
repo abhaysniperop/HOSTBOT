@@ -60,7 +60,7 @@ def home():
 
 def run_flask():
   # Make sure to run on port provided by environment or default to 8080
-  port = int(os.environ.get("PORT", 5001))
+  port = int(os.environ.get("PORT", 8080))
   app.run(host='0.0.0.0', port=port)
 
 def keep_alive():
@@ -83,11 +83,11 @@ def get_uptime():
 # --- End Uptime Tracking ---
 
 # --- Configuration ---
-TOKEN = '8521205371:AAEl89QTt-VZrelleEQprELIyS_FaGnypbQ'
-OWNER_ID = 8318114044
-ADMIN_ID = 8318114044
-YOUR_USERNAME = '@NeuroNinjaX'
-UPDATE_CHANNEL = 'https://t.me/NeuroNinjaXX'
+TOKEN = '8245546202:AAH4S69fLRuskZrnFreoUT1EPUODscIHmvY'
+OWNER_ID = 8299345171
+ADMIN_ID = 8299345171
+YOUR_USERNAME = '@RedRXTG'
+UPDATE_CHANNEL = 'https://t.me/+TIEsnMYFYHBlNGVl'
 
 # A4F API Configuration
 A4F_API_URL = "https://samuraiapi.in/v1/chat/completions"
