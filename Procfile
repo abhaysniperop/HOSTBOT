@@ -1,2 +1,2 @@
-web: gunicorn nice:app
-worker: python nice.py
+web: gunicorn bot:app
+worker: python bot.py
