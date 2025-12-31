@@ -83,7 +83,7 @@ def get_uptime():
 # --- End Uptime Tracking ---
 
 # --- Configuration ---
-TOKEN = '8245546202:AAH4S69fLRuskZrnFreoUT1EPUODscIHmvY'
+TOKEN = '8081822908:AAFe3IcdePn_jI0FU6jkunV5-3ZdQWvcJR4'
 OWNER_ID = 8299345171
 ADMIN_ID = 8299345171
 YOUR_USERNAME = '@RedRXTG'
